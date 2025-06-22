@@ -21,19 +21,20 @@ In the "Store Item Demand Forecasting" project, our goal is to predict the sales
 
 The project repository is organized as follows:
 
+
 ├── LICENSE
-├── README.md <- README .
-├── notebooks <- Folder containing the final reports/results of this project.
-│ │
-│ └── store_demand.py <- Final notebook for the project.
-├── reports <- Folder containing the final reports/results of this project.
-│ │
-│ └── Report.pdf <- Final analysis report in PDF.
-│
-├── src <- Source for this project.
-│ │
-│ └── data <- Datasets used and collected for this project.
-| └── model <- Model.
+├── README.md           <- README .
+├── notebooks           <- Folder containing the final reports/results of this project.
+│   │
+│   └── store_demand.py   <- Final notebook for the project.
+├── reports            <- Folder containing the final reports/results of this project.
+│   │
+│   └── Report.pdf     <- Final analysis report in PDF.
+│   
+├── src                <- Source for this project.
+│   │
+│   └── data           <- Datasets used and collected for this project.
+|   └── model          <- Model.
 
 ## Dataset Information
 
