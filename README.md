@@ -35,7 +35,6 @@ The project repository is organized as follows:
 │ └── data <- Datasets used and collected for this project.
 | └── model <- Model.
 
-
 ## Dataset Information
 
 The provided dataset contains historical sales records for different items across multiple stores. It is divided into two parts: the training dataset and the test dataset. The training dataset is utilized to train our predictive model and includes the following columns:
